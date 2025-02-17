@@ -1,0 +1,6 @@
+[book]
+authors = ["Samuel Ytterbrink"]
+language = "en"
+multilingual = false
+src = "src"
+title = "The Php Book"
