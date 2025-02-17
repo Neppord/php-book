@@ -6,3 +6,4 @@
 
 # Chapters
 - [Chapter 1 - Statements](./Chapter_1_-_Statements.md)
+- [Chapter 2 - Expressions](./Chapter_2_-_Expressions.md)
